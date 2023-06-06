@@ -1,3 +1,0 @@
-INSERIR AQUI POLIMENTOS A SEREM FEITOS:
-
-- Pequeno delay após animação do ataque > correr (resolvido)
