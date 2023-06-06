@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ERPSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <showSceneName>true</showSceneName>
+  <showProjectName>true</showProjectName>
+  <resetOnSceneChange>false</resetOnSceneChange>
+  <debugMode>false</debugMode>
+  <EditorClosed>true</EditorClosed>
+<<<<<<< HEAD
+  <LastTimestamp>1667284242</LastTimestamp>
+  <LastSessionID>1282843223676789442</LastSessionID>
+=======
+  <LastTimestamp>1667283518</LastTimestamp>
+  <LastSessionID>6294290744055879656</LastSessionID>
+>>>>>>> 9a7f15ef7c87e279cc178b1ec4529408cf75c6e9
+  <Errored>false</Errored>
+</ERPSettings>
